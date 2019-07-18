@@ -1,0 +1,112 @@
+@keyframes kf-fade-in {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+.fade-in, .fade-in-enter-active {
+	animation-name: kf-fade-in;
+	animation-duration: 0.5s;
+	animation-fill-mode: both;
+	-webkit-animation-name: kf-fade-in;
+	-webkit-animation-duration: 0.5s;
+	-webkit-animation-fill-mode: both;
+}
+@keyframes kf-fade-in-down {
+	from {
+		opacity: 0;
+		transform: translate(0, -100%);
+		-webkit-transform: translate(0, -100%);
+	}
+	to {
+		opacity: 1;
+		transform: translate(0, 0);
+		-webkit-transform: translate(0, 0);
+	}
+}
+.fade-in-down {
+	animation-name: kf-fade-in-down;
+	animation-duration: 0.5s;
+	animation-fill-mode: both;
+	-webkit-animation-name: kf-fade-in-down;
+	-webkit-animation-duration: 0.5s;
+	-webkit-animation-fill-mode: both;
+}
+@keyframes kf-fade-in-up {
+	from {
+		opacity: 0;
+		transform: translate(0, 100%);
+		-webkit-transform: translate(0, 100%);
+	}
+	to {
+		opacity: 1;
+		transform: translate(0, 0);
+		-webkit-transform: translate(0, 0);
+	}
+}
+.fade-in-up {
+	animation-name: kf-fade-in-up;
+	animation-duration: 0.5s;
+	animation-fill-mode: both;
+	-webkit-animation-name: kf-fade-in-up;
+	-webkit-animation-duration: 0.5s;
+	-webkit-animation-fill-mode: both;
+}
+@keyframes kf-fade-out {
+	from {
+		opacity: 1;
+	}
+	to {
+		opacity: 0;
+	}
+}
+.fade-out, .fade-in-leave-active {
+	animation-name: kf-fade-out;
+	animation-duration: 0.5s;
+	animation-fill-mode: both;
+	-webkit-animation-name: kf-fade-out;
+	-webkit-animation-duration: 0.5s;
+	-webkit-animation-fill-mode: both;
+}
+@keyframes kf-fade-out-down {
+	from {
+		opacity: 1;
+		transform: translate(0, 0);
+		-webkit-transform: translate(0, 0);
+	}
+	to {
+		opacity: 0;
+		transform: translate(0, 100%);
+		-webkit-transform: translate(0, 100%);
+	}
+}
+.fade-out-down {
+	animation-name: kf-fade-out-down;
+	animation-duration: 0.5s;
+	animation-fill-mode: both;
+	-webkit-animation-name: kf-fade-out-down;
+	-webkit-animation-duration: 0.5s;
+	-webkit-animation-fill-mode: both;
+}
+@keyframes kf-fade-out-up {
+	from {
+		opacity: 1;
+		transform: translate(0, 0);
+		-webkit-transform: translate(0, 0);
+	}
+	to {
+		opacity: 0;
+		transform: translate(0, -100%);
+		-webkit-transform: translate(0, -100%);
+	}
+}
+.fade-out-up {
+	animation-name: kf-fade-out-up;
+	animation-duration: 0.5s;
+	animation-fill-mode: both;
+	-webkit-animation-name: kf-fade-out-up;
+	-webkit-animation-duration: 0.5s;
+	-webkit-animation-fill-mode: both;
+}

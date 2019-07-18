@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon15/置顶</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="任务窗格" transform="translate(-1376.000000, -956.000000)">
+            <g id="图标" transform="translate(1222.000000, 956.000000)">
+                <g id="icon15/置顶" transform="translate(154.000000, 0.000000)">
+                    <g id="icon14/置顶" transform="translate(1.000000, 1.000000)">
+                        <rect id="Rectangle-9" fill-rule="nonzero" x="0" y="0" width="13" height="13"></rect>
+                        <g id="Group-2" transform="translate(0.000000, 1.000000)" fill="#000000" fill-rule="nonzero" opacity="0.4">
+                            <path d="M6.9982623,3.45801586 C6.99941309,3.47185814 7,3.48586053 7,3.5 L7,11.5 C7,11.7761424 6.77614237,12 6.5,12 C6.22385763,12 6,11.7761424 6,11.5 L6,3.5 C6,3.48265039 6.00088366,3.46550717 6.00260843,3.4486129 L1.36373743,8.36698211 C1.17426666,8.56786874 0.857819464,8.57712313 0.65693283,8.38765237 C0.456046195,8.1981816 0.446791805,7.8817344 0.636262572,7.68084777 L5.40466911,2.62513833 C5.97308141,2.02247843 6.922423,1.99471526 7.5250829,2.56312756 C7.5562312,2.59307615 7.5562312,2.59307615 7.58620662,2.62419864 L12.3634417,7.68053454 C12.5530855,7.88125787 12.5441037,8.19771292 12.3433804,8.38735668 C12.1426571,8.57700044 11.826202,8.56801867 11.6365583,8.36729534 L6.9982623,3.45801586 Z" id="Combined-Shape"></path>
+                            <rect id="Rectangle-66" x="1" y="0" width="11" height="1" rx="0.5"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
